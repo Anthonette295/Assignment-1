@@ -9,3 +9,23 @@ body{
     background: #27285c;
     color: #fff;
 }
+
+#header {
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/IMG_8263);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.container {
+    padding: 10px 10px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
