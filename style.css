@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("https://cdn.flashtalking.com/227547/5775467/FY26Q1_DC_AcrobatDC_AcrobatStudio_uk_en_MarketSales-StandardIABStatic-DV360_ST_300x250_NA_NA.jpg?cb=959172402");
+    color: #fff;
+}
