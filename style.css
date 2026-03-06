@@ -98,7 +98,7 @@ section{
 
 .home-content h1{
     position: relative;
-    font-size: 30px;
+    font-size: 50px;
     font-weight: 700;
     line-height: 1.2;
     color: #6e6868;
@@ -136,7 +136,7 @@ section{
 }
 
 .home-content p {
-    font-size: 30repx;
+    font-size: 40px;
     margin: 20px 0 40px;
 }
 
