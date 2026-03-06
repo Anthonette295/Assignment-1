@@ -57,11 +57,11 @@ nav ul li a:hover::after{
 .header-text{
     color:#fff;
     margin-top: 20%;
-    font-size: 30px;
+    font-size: 15px;
 }
 
 .header-text h1{
-    font-size: 60px;
+    font-size: 40px;
     margin-top: 20px;
 }
 
@@ -118,7 +118,7 @@ section{
 
 .home-content h3{
     position: relative;
-    font-size: 32px;
+    font-size: 25px;
     font-weight: 700;
     color: #6e6868;
 }
@@ -136,7 +136,7 @@ section{
 }
 
 .home-content p {
-    font-size: 16px;
+    font-size: 12px;
     margin: 20px 0 40px;
 }
 
