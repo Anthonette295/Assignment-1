@@ -218,7 +218,7 @@ section{
     left: 0;
     width: 0%;
     height: 100%;
-    background: lightblue;
+    background: #6e6868;
     z-index: -1;
     transition: .5s;
 }
