@@ -272,7 +272,7 @@ section{
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-color: var(--bg-color);
+    background-image: url(https://wallpaperaccess.com/full/5652030.jpg);
     border: 2px solid #eeecdf;
     border-radius: 3rem;
     gap: 2rem;
@@ -304,7 +304,7 @@ section{
 }
 
 .contact{
-    background-color:#15365F;
+    background-image: url(https://wallpaperaccess.com/full/5652030.jpg);
 }
 
 .contact h2 {
@@ -353,7 +353,7 @@ section{
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-color: var(--bg-color);
+    background-image: url(https://wallpaperaccess.com/full/5652030.jpg);
     border: 2px solid #eeecdf;
     border-radius: 3rem;
     gap: 2rem;
