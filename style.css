@@ -129,14 +129,14 @@ section {
     animation-delay: .1s;
 }
 
-.home-content h3 {
+.home-content h2 {
     position: relative;
     font-size: 32px;
     font-weight: 700;
     color: #9c9898;
 }
 
-.home-content h3::before {
+.home-content h2::before {
     content: '';
     position: absolute;
     top: 0;
